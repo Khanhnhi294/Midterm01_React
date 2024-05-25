@@ -25,6 +25,7 @@ function App() {
          lastName = { item.lastName}
          title = { item.title}
         />
+        
         )}
       
     </div>
